@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class e08_C01_Tim {
     public static void main(String[] args) {
-         //Bir kullanıcıdan alınan metni parantez içerisine alın.
+         //Bir kullanıcıdan alınan metni parantez içerisine alın..
          // Eğer metin "Java" kelimesini içeriyorsa,
          // bu kelimenin hemen öncesine ve sonrasına yıldız (*) ekleyin.
          //İçermiyorsa "Bu metin java kelimesi içermiyor" yazdırın.
